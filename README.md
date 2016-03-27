@@ -8,3 +8,7 @@ Monthly Meeting Presentations can be found here for those who want to view the p
 
 2015-12 - Lock Picking (Presentation provided)
 
+
+These presentations are NOT to be shared reproduced with out proper credit. All presentations posted here are CC BY-NC-SA
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
