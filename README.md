@@ -2,7 +2,7 @@
 
 Monthly Meeting Presentations can be found here for those who want to view the presenations. 
 
-2016-06 - [Masscan Basics by @synackpwn]
+2016-06 - [Masscan Basics by @synackpwn](https://github.com/DC423/Meeting-Presentations/blob/master/DC423%20-%20Masscan%20Basics.pdf)
 
 2016-04 - [Cut the Cord by @datcyberguy](https://github.com/DC423/Meeting-Presentations/blob/master/2016-04-CutTheCord.pdf)
 
