@@ -2,6 +2,16 @@
 
 Monthly Meeting Presentations can be found here for those who want to view the presenations. 
 
+2018-03 - [Hacky Easter Teaser](https://github.com/DC423/Meeting-Presentations/blob/master/2018-04-HackyEasterTeaserWalkthrough.pdf)
+
+2017-07 - [Homecon](https://github.com/DC423/Meeting-Presentations/blob/master/2017_07_MasterSlides.pdf)
+
+2017-04 - [Travelouge](https://github.com/DC423/Meeting-Presentations/blob/master/2017-04-Travelouge.pdf)
+
+2017-04 - [RetroPie](https://github.com/DC423/Meeting-Presentations/blob/master/2017-04-RetroPie-Presentation.pptx)
+
+2017-04 - [DC423 Challenge by @mothersuperior](https://github.com/DC423/Meeting-Presentations/blob/master/2017-04-DC423%20Challenge.pdf)
+
 2016-06 - [Masscan Basics by @synackpwn](https://github.com/DC423/Meeting-Presentations/blob/master/DC423%20-%20Masscan%20Basics.pdf)
 
 2016-04 - [Cut the Cord by @datcyberguy](https://github.com/DC423/Meeting-Presentations/blob/master/2016-04-CutTheCord.pdf)
