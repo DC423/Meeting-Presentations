@@ -2,7 +2,7 @@
 
 Monthly Meeting Presentations can be found here for those who want to view the presenations. 
 
-2018-05 - [911 Call Overview] (https://github.com/DC423/Meeting-Presentations/blob/master/2018-05%20911%20Call%20Overview.pdf)
+2018-05 - [911 Call Overview](https://github.com/DC423/Meeting-Presentations/blob/master/2018-05%20911%20Call%20Overview.pdf)
 
 2018-03 - [Hacky Easter Teaser](https://github.com/DC423/Meeting-Presentations/blob/master/2018-04-HackyEasterTeaserWalkthrough.pdf)
 
