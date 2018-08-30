@@ -2,6 +2,8 @@
 
 Monthly Meeting Presentations can be found here for those who want to view the presenations. 
 
+2018-08 - [USB Drop Attacks with Responder](https://github.com/DC423/Meeting-Presentations/blob/master/USB%20Drop%20Attacks%20-%20DC423%20-%2008%252F2018.pdf)
+
 2018-07 - [Hacking Vulnhub VM](https://github.com/DC423/Meeting-Presentations/blob/master/2018-07-Hacking%20Vulnhub%20VM%20BadStore.pdf)
 
 2018-07 - [Sonarr](https://github.com/DC423/Meeting-Presentations/blob/master/2018-07-25%20Sonarr.pdf)
